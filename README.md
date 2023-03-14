@@ -22,6 +22,10 @@ Frontend developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### If you are looking for examples of my code, look here:
+
+- https://github.com/open-tech-authors/solid/pull/182
+- https://github.com/strapi/strapi/pull/3372
 
 ### Socials
 
